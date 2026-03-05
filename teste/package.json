@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "ri4": "file:../../RI4"
+  }
+}
